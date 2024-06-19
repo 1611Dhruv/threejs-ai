@@ -45,6 +45,10 @@ To run TeeFusion locally, ensure you have Node.js and npm installed. Then, follo
 - Customize t-shirt features and explore AI-generated options directly on the landing page.
 - Experience the interactive 3D t-shirt model and its seamless integration with advanced AI technology.
 
+## Deployment
+
+This project is hosted at [threejs-ai-ten.vercel.app](https://threejs-ai-ten.vercel.app).
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
